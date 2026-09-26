@@ -1,5 +1,15 @@
 # SALT-KG: A Benchmark for Semantics-Aware Learning on Enterprise Tables
 
+# this is a clone
+of a repo and all credit s/b given to source.
+
+SAP SALT_KG (public SAP dataset)
+        ↓
+ SALT Ontology (manufacturing + quality)
+        ↓
+Deloitte sap‑ontology (enterprise semantic structure)
+
+
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-green)](licence)
 [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-blue)](https://openreview.net/forum?id=9vVMSvilGX)
